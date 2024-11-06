@@ -1,5 +1,6 @@
-GitHub-Flavored Markdown (GFM) is an extension of the standard Markdown syntax that includes task lists, tables, syntax highlighting, and more. Here’s a comprehensive look at GFM.
+GitHub-Flavored Markdown (GFM) is an extension of the standard Markdown syntax that includes task lists, tables, syntax highlighting, and more. Hereâs a comprehensive look at GFM.
 
+this is with a tree push
 hello
 ## Key Syntax Overview
 
@@ -82,7 +83,7 @@ Referencing issues, commits, or pull requests:
 3. **Preview your document**: Check formatting before publishing.
 
 ## Example Project Task List
-Let’s say you’re working on a new repository for a project:
+Letâs say youâre working on a new repository for a project:
 - [x] Initialize the project with `README.md`
 - [x] Set up the GitHub repository
 - [ ] Implement core features
@@ -99,7 +100,7 @@ Let’s say you’re working on a new repository for a project:
 - Try using blockquotes to showcase important quotes or sections.
 - Use inline code (`code`) for short snippets.
 
-By mastering these elements, you’ll be able to use GitHub-Flavored Markdown for effective documentation on GitHub, enhancing the clarity and accessibility of your projects. Practice writing Markdown to become proficient and explore the GFM features that make it so versatile for developers.
+By mastering these elements, youâll be able to use GitHub-Flavored Markdown for effective documentation on GitHub, enhancing the clarity and accessibility of your projects. Practice writing Markdown to become proficient and explore the GFM features that make it so versatile for developers.
 
 ---
 
